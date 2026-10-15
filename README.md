@@ -97,26 +97,15 @@ I build web applications end-to-end — from database schema to deployed UI. I w
 ###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanvir-Sorforaz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" height="165" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-Sorforaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" height="165" />
 </p>
 
----
-
-###  Recent Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir-Sorforaz&theme=tokyo-night&hide_border=true" alt="Activity graph" />
-</p>
-
----
-
 ###  Currently
 
-- 🔭 Building full-stack side projects to sharpen my skills
-- 🌱 Deepening **TypeScript** and **PostgreSQL** alongside project work
-- 💬 Open to **full-stack**, **frontend**, or **backend** roles and internships
-- 📚 Learning in public — sharing progress on GitHub and X
+-  Building full-stack side projects to sharpen my skills
+-  Deepening **TypeScript** and **PostgreSQL** alongside project work
+-  Open to **full-stack**, **frontend**, or **backend** roles and internships
 
 ---
 
@@ -127,8 +116,4 @@ I build web applications end-to-end — from database schema to deployed UI. I w
   <a href="https://x.com/Tanvir_SF_"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="https://www.facebook.com/Tanvir.Sorforaz"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
   <a href="mailto:your-real-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <i>Turning ideas into products — one commit at a time.</i>
 </p>
